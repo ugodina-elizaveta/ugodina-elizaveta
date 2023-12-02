@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**ugodina-elizaveta/ugodina-elizaveta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Привет! 👋
 
-Here are some ideas to get you started:
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+ - МЭИ (бакалавр): 15.03.03 - Прикладная механика
+ - МФТИ (магистратура):01.04.02 - Прикладная математика и информатика
+ - ДПО от МЭИ - Цифровизация и разработка информационных систем
+ - Codemica: курс "Python-разработчик"
+ - Codemica: курс "JAVA PRO"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Проекты 📚
+
+* Кликни [сюда](https://github.com/ugodina-elizaveta?tab=repositories) чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills: Python, Java
+    * Mathematical statistics;
+    * Data Preprocessing and Data Analysis;
+    * Machine Learning and Deep Learning;
+    * CV and NLP;
+    * Relations Databases;
+  
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](https://t.me/elizaveta_ugodina)
+
